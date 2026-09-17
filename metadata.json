@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A complete Student Management System with React frontend, Node.js + Express backend, and Firebase Firestore database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
